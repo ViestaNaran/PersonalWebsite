@@ -1,0 +1,28 @@
+Start where you are.
+Do what you can.
+
+Personal website:
+
+Step 1: Front page: The CV
+
+- List of Experience and education
+	- class for experience / education item
+	- Sidebar for navigation (-Experience, Projects, About Me)
+	- Scrolling ball that tracks to each item
+	- Each Item Clickable: Spawns new menu with more detail (Courses taken, extra resources)	
+	- Contact Information
+
+Step 2: Projects Page: Projects completed and Working on
+	- Same layout as Front page
+	- Description of projects and technologies
+
+
+Step 3: Personal Page:
+	- API to call images
+	- Cloud storage to store images (AWS / Azure)
+	- Keyvault to store API keys
+	- Search filter for different interests
+	- Personal description
+
+
+
